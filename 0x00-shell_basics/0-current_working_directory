@@ -1,2 +1,4 @@
 #!/bin/bash
+pwd=$(dirname "$0")
+cd "$pwd"
 pwd
