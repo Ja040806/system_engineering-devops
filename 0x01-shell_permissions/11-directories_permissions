@@ -1,0 +1,3 @@
+#!/bin/bash
+# Add execute permission for all directories in the current folder
+chmod +x */
