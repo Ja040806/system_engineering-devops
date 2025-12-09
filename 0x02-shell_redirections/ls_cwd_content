@@ -1,16 +1,11 @@
-total 0
+total 4
 -rwxrwxrwx 1 ja040806 ja040806   12 Dec  9 05:50 *"Best School"*$?*****:)
-drwxrwxrwx 1 ja040806 ja040806 4096 Dec  9 06:04 .
+drwxrwxrwx 1 ja040806 ja040806 4096 Dec  9 06:41 .
 drwxrwxrwx 1 ja040806 ja040806 4096 Dec  4 04:11 ..
--rwxrwxrwx 1 ja040806 ja040806   33 Dec  9 05:10 0-hello_world
--rwxrwxrwx 1 ja040806 ja040806   28 Dec  9 05:30 1-confused_smiley
--rwxrwxrwx 1 ja040806 ja040806  134 Dec  6 21:22 10-no_more_js
--rwxrwxrwx 1 ja040806 ja040806   28 Dec  6 21:12 2-hellofile
--rwxrwxrwx 1 ja040806 ja040806   39 Dec  9 05:33 3-twofiles
--rwxrwxrwx 1 ja040806 ja040806   35 Dec  6 21:16 4-lastlines
--rwxrwxrwx 1 ja040806 ja040806   35 Dec  6 21:17 5-firstlines
--rwxrwxrwx 1 ja040806 ja040806   40 Dec  9 05:35 6-third_line
--rwxrwxrwx 1 ja040806 ja040806   70 Dec  9 05:49 7-file
--rwxrwxrwx 1 ja040806 ja040806   36 Dec  9 06:03 8-cwd_state
--rwxrwxrwx 1 ja040806 ja040806   92 Dec  6 21:21 9-duplicate_last_line
--rwxrwxrwx 1 ja040806 ja040806    0 Dec  9 06:04 ls_cwd_content
+-rwxrwxrwx 1 ja040806 ja040806   32 Dec  9 06:40 0-hello_world
+-rwxrwxrwx 1 ja040806 ja040806   48 Dec  9 06:32 10-no_more_js
+-rwxrwxrwx 1 ja040806 ja040806   36 Dec  9 06:41 8-cwd_state
+-rwxrwxrwx 1 ja040806 ja040806   37 Dec  9 06:31 9-duplicate_last_line
+-rwxrwxrwx 1 ja040806 ja040806    0 Dec  9 06:31 iacta
+-rwxrwxrwx 1 ja040806 ja040806    0 Dec  9  2025 ls_cwd_content
+-rwxrwxrwx 1 ja040806 ja040806    0 Dec  9 06:08 temp
