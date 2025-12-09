@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-# This script sets the mode of the file hello to -rwxr-x-wx
-chmod 753 hello
-
+# This script sets the permissions of hello to -rwxr-x-wx
+chmod u=rwx,g=rx,o=wx hello
