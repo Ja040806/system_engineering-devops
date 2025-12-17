@@ -1,17 +1,2 @@
 #!/bin/bash
-# Script to list all local variables, environment variables, and shell functions
-
-# List local variables
-echo "=== Local Variables ==="
-local_vars=$(compgen -v)
-for var in $local_vars; do
-    declare -p "$var" 2>/dev/null
-done
-
-# List environment variables
-echo "=== Environment Variables ==="
-printenv
-
-# List shell functions
-echo "=== Shell Functions ==="
-declare -F
+set
