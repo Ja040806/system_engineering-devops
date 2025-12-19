@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+# Script displays all running bash processes
 # shellcheck disable=SC2009
-ps -e -o uid,pid,ppid,cmd --forest | grep bash
+ps -ef --forest | grep bash
