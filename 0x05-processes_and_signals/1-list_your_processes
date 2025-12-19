@@ -1,0 +1,5 @@
+#!/bin/bash
+# Script to list all running processes in a user-friendly format
+
+# Display all processes including those without a TTY, in a hierarchical format
+ps -ef --forest
