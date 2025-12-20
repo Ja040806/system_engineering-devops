@@ -1,5 +1,3 @@
-
 #!/usr/bin/env bash
-# Script lists all running processes in a user-friendly hierarchical format
-
-ps -ef --forest
+# Script to list all running processes in a user-friendly format
+ps auxf
